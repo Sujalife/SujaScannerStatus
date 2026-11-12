@@ -1,0 +1,45 @@
+{
+  "name": "Suja Life Tools",
+  "short_name": "Suja Tools",
+  "start_url": "https://sujalife.github.io/SujaLifeTools/",
+  "display": "standalone",
+  "background_color": "#f2f8ef",
+  "theme_color": "#08643b",
+  "icons": [
+    {
+      "src": "https://sujalife.github.io/SujaLifeTools/assets/tools-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://sujalife.github.io/SujaLifeTools/assets/tools-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "id": "https://sujalife.github.io/SujaLifeTools/",
+  "scope": "https://sujalife.github.io/SujaLifeTools/",
+  "shortcuts": [
+    {
+      "name": "Scanner Status",
+      "url": "https://sujalife.github.io/SujaLifeTools/scanner/",
+      "icons": [
+        {
+          "src": "https://sujalife.github.io/SujaLifeTools/assets/scanner-icon-192.png",
+          "sizes": "192x192",
+          "type": "image/png"
+        }
+      ]
+    },
+    {
+      "name": "Dock Status",
+      "url": "https://sujalife.github.io/SujaLifeTools/dock/",
+      "icons": [
+        {
+          "src": "https://sujalife.github.io/SujaLifeTools/assets/dock-icon-192.png",
+          "sizes": "192x192"
+        }
+      ]
+    }
+  ]
+}

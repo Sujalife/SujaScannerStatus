@@ -1,0 +1,11 @@
+{
+  "name": "suja-scanner-status",
+  "version": "3.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "check": "node scripts/check.mjs",
+    "test": "node scripts/check.mjs",
+    "build": "node scripts/build.mjs"
+  }
+}

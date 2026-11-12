@@ -1,0 +1,8 @@
+node_modules/
+.firebase/
+.env*
+!.env.example
+*.log
+site.zip
+
+/node_modules
